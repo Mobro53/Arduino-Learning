@@ -1,7 +1,7 @@
-#define Red_led 8
+#define red_led 8
 
 void setup() {
-  pinMode(Red_led,OUTPUT);
+  pinMode(red_led,OUTPUT);
 
 }
 
